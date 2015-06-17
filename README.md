@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # Global Warming !
+=======
+# global warming
+>>>>>>> ca33210bfd2690e7ceec50755d18ba88dc86681a
 > A [Bespoke.js](http://markdalgleish.com/projects/bespoke.js) presentation, built with [generator-bespoke](https://github.com/markdalgleish/generator-bespoke)
 
 ## View slides locally
