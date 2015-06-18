@@ -1,17 +1,12 @@
 # Global Warming !
-> A [Bespoke.js](http://markdalgleish.com/projects/bespoke.js) presentation, built with [generator-bespoke](https://github.com/markdalgleish/generator-bespoke)
 
-## View slides locally
+#adalah judul dari presentation kami kali ini, dan akan menjadi topik yang akan membangkitkan jiwa muda yang akan merubah dunia
+untuk menjadi lebih baik lagi daripada sebelumnya.
+#gagasan ini mampu merubah apa yg telah salah dilakukan oleh orang sebelumnya dan digantikan dengan orang baru
 
-First, ensure you have the following installed:
+## Kami kelompok Ge_String
 
-1. [Node.js](http://nodejs.org)
-2. [Bower](http://bower.io): `$ npm install -g bower`
-3. [Gulp](http://gulpjs.com): `$ npm install -g gulp`
+Peduli terhadap lingkungan dimulai dari hal kecil, seperti sampah disekitarmu !
+1 sampah saja yang engkau singkirkan dan bersihkan dari muka bumi itu artinya kamu sudah membantu kelancaran hidup bumi agar kembali sejuk dan sehat
 
-Then, install dependencies and run the preview server:
-
-```bash
-$ npm install && bower install
-$ gulp serve
-```
+STOP GLOBAL WARMING !
